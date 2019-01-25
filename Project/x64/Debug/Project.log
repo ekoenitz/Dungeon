@@ -1,0 +1,18 @@
+﻿  Actor.cpp
+c:\users\erik\desktop\dungeon\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+c:\users\erik\desktop\dungeon\project\actor.hpp(17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  battleLoop.cpp
+c:\users\erik\desktop\dungeon\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+c:\users\erik\desktop\dungeon\project\actor.hpp(17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Dungeon.cpp
+c:\users\erik\desktop\dungeon\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+  dungeonLoop.cpp
+c:\users\erik\desktop\dungeon\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+c:\users\erik\desktop\dungeon\project\actor.hpp(17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+c:\users\erik\desktop\dungeon\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+c:\users\erik\desktop\dungeon\project\actor.hpp(17): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\erik\desktop\dungeon\project\main.cpp(30): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\erik\desktop\dungeon\project\main.cpp(32): warning C4309: 'argument': truncation of constant value
+  Generating Code...
+  Project.vcxproj -> C:\Users\Erik\Desktop\Dungeon\x64\Debug\Project.exe

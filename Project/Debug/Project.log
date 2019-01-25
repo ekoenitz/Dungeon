@@ -1,0 +1,4 @@
+﻿  battleLoop.cpp
+c:\users\erikk\desktop\project\project\dungeon.hpp(16): warning C4309: 'initializing': truncation of constant value
+  Project.vcxproj -> C:\Users\ErikK\Desktop\Project\Debug\Project.exe
+  Project.vcxproj -> C:\Users\ErikK\Desktop\Project\Debug\Project.pdb (Partial PDB)
